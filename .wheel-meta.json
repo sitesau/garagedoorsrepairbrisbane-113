@@ -1,0 +1,22 @@
+{
+  "wheel_id": 761,
+  "structure": "umbrella",
+  "slug": "garagedoorsrepairbrisbane-113",
+  "project": "garage-door-repairs-brisbane-timeline-64cac6ac725dc37c18f078f1d",
+  "parent_t1_ref": "garagedoorsrepairbrisbane-156",
+  "node_role": "feeder",
+  "money_target": "garagedoorsrepairbrisbane.com.au",
+  "primary_kw": "garage door repairs brisbane timeline",
+  "intended_url": "https://sitesau.github.io/garagedoorsrepairbrisbane-113/",
+  "tier": "T2",
+  "writeback_nonce": "31cf185c49e6d6bd",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/garage-door-repairs-brisbane-signs-you-need-ff9fae6eb07a260ec19/",
+      "anchor": "this guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
